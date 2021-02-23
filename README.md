@@ -8,7 +8,7 @@ Everything about Messagine
 
 ## Products
 
-- [Messagine Bot](https://t.me/MessagineBot)
+- [Telegram Bot](https://t.me/MessagineBot)
 - [Website](https://messaginebot.com)
 
 ## Social
@@ -24,5 +24,5 @@ Everything about Messagine
 ## Technical
 
 - [Github](https://github.com/messagine)
-- [Messagine Test Bot](https://t.me/MessagineTestBot)
+- [Telegram Test Bot](https://t.me/MessagineTestBot)
 - [StackShare](https://stackshare.io/companies/messagine)
